@@ -1,2 +1,2 @@
-# jennipeltola.github.io
+# portfolio.github.io
 Personal portfolio
