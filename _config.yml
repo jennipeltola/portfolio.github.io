@@ -1,0 +1,10 @@
+title: Jenni Peltola – Portfolio
+description: Software developer student | Fullstack & Android projects
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+show_downloads: false
+
+github:
+  is_project_page: true
