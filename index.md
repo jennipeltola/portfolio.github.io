@@ -6,25 +6,25 @@ permalink: /
 # Jenni Peltola
 **Software Developer Student**
 
-Fullstack & Android development  
+Web & Mobile App Development
+UI/UX Design
 Seeking an internship in software development
 
 ---
 
 ## About Me
-I am a software development student with experience in building fullstack web applications and Android mobile apps.  
-I enjoy learning new technologies and creating practical applications with clean, readable code.
+I am a software development student with experience in building both web and mobile applications and designing responsive user interfaces.
+I am especially interested in designing and building visually appealing user interfaces. I enjoy paying attention to details and creating clean, user-friendly designs. I am highly motivated to continuously improve my skills and grow as a developer.
 
 ---
 
 ## Projects
-*(Project details coming soon)*
 
 ### Fullstack Web Application
-- Description: 
-- Technologies:
-- Live demo:
-- GitHub repository:
+- Description: A word quiz web application built as a school project. The app includes a REST API backend and a React frontend.
+- Technologies: Javascript, React, CSS, Node.js, Express, PostgreSQL, Docker, Render
+- Live demo: https://tamk-fullstack-application.onrender.com/
+- GitHub repository: https://github.com/jennipeltola/fullstack-portfolio-app.git
 
 ### Android Mobile Application
 - Description:
@@ -34,14 +34,14 @@ I enjoy learning new technologies and creating practical applications with clean
 ---
 
 ## Skills
-- Programming languages:
-- Frameworks & tools:
-- Databases:
-- Other:
+- Programming languages: Java, Kotlin, JavaScript, React & React Native, HTML & CSS
+- Frameworks & tools: SpringBoot, Figma, AWS, Render
+- Databases: SQL
+- Other: Wordpress, Docker, Git
 
 ---
 
 ## Contact
 - GitHub: https://github.com/your-username
-- LinkedIn:
-- Email:
+- LinkedIn: www.linkedin.com/in/jenni-peltola-06817a11a
+- Email: jenni.peltola@hotmail.com
