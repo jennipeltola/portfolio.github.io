@@ -22,9 +22,9 @@ I am especially interested in designing and building visually appealing user int
 
 ### Learn English! | Fullstack Web Application
 - Description: A word quiz web application built as a school project, with memory-based database and responsive UI.
-- Technologies: Javascript, React, CSS, Node.js, Express, PostgreSQL, Docker, Render
+- Technologies: Javascript, React, CSS, Node.js, Express, SQLite, Docker, Render
 - Live demo: https://tamk-fullstack-application.onrender.com/
-- GitHub repository: https://github.com/jennipeltola/fullstack-portfolio-app.git
+- GitHub repository: [Fullstack App](https://github.com/jennipeltola/fullstack-portfolio-app.git)
 
 ### D&D 5th Edition Tools | Android Mobile Application
 - Description: Mobile app that fetches RPG data from an external REST API, built as a school project.
@@ -36,7 +36,7 @@ I am especially interested in designing and building visually appealing user int
 ## Skills
 - Programming languages: Java, Kotlin, JavaScript, React & React Native, HTML & CSS
 - Frameworks & tools: SpringBoot, Figma, AWS, Render
-- Databases: SQL
+- Databases: SQL, SQLite, MariaDB
 - Other: Wordpress, Docker, Git
 
 ---
@@ -44,4 +44,4 @@ I am especially interested in designing and building visually appealing user int
 ## Contact
 - GitHub: https://github.com/jennipeltola
 - LinkedIn: www.linkedin.com/in/jenni-peltola-06817a11a
-- Email: jenni.peltola@hotmail.com
+- Email: jenni.peltola@tuni.fi
