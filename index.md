@@ -29,7 +29,7 @@ I am especially interested in designing and building visually appealing user int
 ### D&D 5th Edition Tools | Android Mobile Application
 - Description: Mobile app that fetches RPG data from an external REST API, built as a school project.
 - Technologies: Kotlin, Jetpack Compose
-- GitHub repository:
+- GitHub repository: [Android App](https://github.com/jennipeltola/android-portfolio-app.git)
 
 ---
 
