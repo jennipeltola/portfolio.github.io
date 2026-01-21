@@ -40,20 +40,28 @@ I am especially interested in designing and building visually appealing user int
 - Platform: Mobile & Desktop
 - Tools: Figma
 - Focus areas: Mobile-first design, accessible UI, clear interaction flows, example chatbot conversations, AI research
-- ![Homescreen, mobile](assets/ui_chatbot/etusivu_ote_eng)
-- ![Conversation example, mobile](assets/ui_chatbot/alina_ja_botti)
-- ![Homepage, desktop](assets/ui_chatbot/etusivu_ote_desktop_eng)
-- ![Conversation example, desktop](assets/ui_chatbot/keskustelu_saara_desktop)
+#### Mobile - Homescreen
+![Homescreen, mobile](assets/ui_chatbot/etusivu_ote_eng.png)
+#### Mobile - Conversation example
+![Conversation example, mobile](assets/ui_chatbot/alina_ja_botti.png)
+#### Desktop - Homepage
+![Homepage, desktop](assets/ui_chatbot/etusivu_ote_desktop_eng.png)
+#### Desktop - Conversation example
+![Conversation example, desktop](assets/ui_chatbot/keskustelu_saara_desktop.png)
 
 ### Niitty 2, Information Portal UI
 - Description: UI design for an information portal aimed at families with immigrant background. The service provides clear and accessible information related to childcare and everyday family life.
 - Platform: Mobile & Desktop
 - Tools: Figma
 - Focus areas: Responsive design, information hierarchy, accessibility, user-friendly navigation
-- ![Homepage, desktop](assets/ui_niitty/etusivu_niitty)
-- ![Subpage example, desktop](assets/ui_niitty/vauvat_desktop2)
-- ![Homescreen, mobile](assets/ui_niitty/niitty_mobiili_etusivu)
-- ![Subpage example, mobile](assets/ui_niitty/niitty_mobiili_vauvat)
+#### Desktop - Homepage
+![Homepage, desktop](assets/ui_niitty/etusivu_niitty.png)
+#### Desktop - Subpage example
+![Subpage example, desktop](assets/ui_niitty/vauvat_desktop2.png)
+#### Mobile - Homescreen
+![Homescreen, mobile](assets/ui_niitty/niitty_mobiili_etusivu.png)
+#### Mobile - Subpage example
+![Subpage example, mobile](assets/ui_niitty/niitty_mobiili_vauvat.png)
 
 ---
 
