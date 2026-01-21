@@ -23,7 +23,7 @@ I am especially interested in designing and building visually appealing user int
 ### Learn English! | Fullstack Web Application
 - Description: A word quiz web application built as a school project, with memory-based database and responsive UI.
 - Technologies: Javascript, React, CSS, Node.js, Express, SQLite, Docker, Render
-- Live demo: https://tamk-fullstack-application.onrender.com/
+- Live demo: [Click Here](https://tamk-fullstack-application.onrender.com/)
 - GitHub repository: [Fullstack App](https://github.com/jennipeltola/fullstack-portfolio-app.git)
 
 ### D&D 5th Edition Tools | Android Mobile Application
@@ -40,6 +40,7 @@ I am especially interested in designing and building visually appealing user int
 - Platform: Mobile & Desktop
 - Tools: Figma
 - Focus areas: Mobile-first design, accessible UI, clear interaction flows, example chatbot conversations, AI research
+- Screenshots:
 #### Mobile - Homescreen
 ![Homescreen, mobile](assets/ui_chatbot/etusivu_ote_eng.png)
 #### Mobile - Conversation example
@@ -54,6 +55,7 @@ I am especially interested in designing and building visually appealing user int
 - Platform: Mobile & Desktop
 - Tools: Figma
 - Focus areas: Responsive design, information hierarchy, accessibility, user-friendly navigation
+- Screenshots:
 #### Desktop - Homepage
 ![Homepage, desktop](assets/ui_niitty/etusivu_niitty.png)
 #### Desktop - Subpage example
