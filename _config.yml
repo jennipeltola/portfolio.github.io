@@ -1,0 +1,10 @@
+title: Jenni Peltola – Portfolio
+description: Web & Mobile App development | UI/UX Design
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+show_downloads: false
+
+github:
+  is_project_page: true
